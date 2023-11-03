@@ -1,2 +1,2 @@
 # Ex17
-ex 17 fo odin
+ex 17 for odin
